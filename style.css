@@ -1,0 +1,116 @@
+#navbutton{ 
+     border-radius: 30%; 
+    
+}
+
+/* .container{
+    display: flex;
+    border-radius: 25px;
+    padding-left: 100px;
+     */
+  
+
+}
+
+.red{
+    background-color: white;
+  }
+  .blue{
+    background-color: white;
+  }
+  .green{
+    background-color: white;
+    display: flex;
+    padding-left: 10px;
+  }
+  .yellow{
+    background-color: white;
+    display: flex;
+    padding-left: 10px;
+  }
+  .box{
+    width: 400px;
+    height: 350px;
+  }
+  .small-box{
+    width: 350px;
+    height: 175px;
+  }
+  .main-div{
+    display: flex;
+    padding-left: 100px;
+    
+  }
+  .smaller-box{
+    width: 175px;
+    height: 120px;
+  }
+  .pink{
+    background-color: white;
+    width: 200px;
+  }
+  .orange{
+    background-color: white;
+  }
+  .cyan{
+    background-color: white;
+    width: 200px;
+  }
+  .purple{
+    background-color: white;
+  }
+  .third-heading{
+    font-size: 15px;
+  }
+
+  .second-heading{
+    font-size: 20px;
+    font-weight: 100;
+    padding-left: 100px;
+  }
+.first-heading{
+    font-size: 30px;
+    font-weight: 400;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+
+.vertical{
+    border-left: 1px solid black;
+    height: 500px;
+
+}
+.origin-div{
+    display: flex;
+}
+.two-div{
+    display: flex;
+}
+.about-div{
+    padding-left: 20px;
+}
+.navbar{
+    display: flex;
+    justify-content: flex-start;
+}
+.nav-heading2{
+    padding-right: 100px;
+}
+.nav-heading1{
+    padding-left: 100px;
+}
+.nav-heading3{
+    padding-right: 
+}
+button{
+    border-radius: 25px;
+    width: 120px;
+    height: 40px;
+    margin: 7px;
+}
+
+.container{
+    display: flex;
+    padding-left: 100px;
+}
+
